@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+position: relative;
+left: 12%;
+width: 200px;
+height: 2%;
+margin: 50px;
+background-color: rgb(206, 206, 206);
+}
+
+div img{
+    width: 500px;
+}
